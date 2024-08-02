@@ -23,7 +23,7 @@ Sou Jaceguai Júnior, um desenvolvedor autodidata e orientado a produtos, com um
 
 ## 🌱 O que estou aprendendo
 
-Atualmente, estou me aprofundando em [tecnologia ou linguagem específica], além de [outro foco atual]. Sempre buscando expandir minhas habilidades para oferecer soluções ainda mais robustas e escaláveis.
+Atualmente, estou me aprofundando em desenvolvimento back-end, além de estudos voltados para o inglês. Sempre buscando expandir minhas habilidades para oferecer soluções ainda mais robustas e escaláveis.
 
 ## 📫 Entre em contato
 
