@@ -19,6 +19,7 @@ Sou Jaceguai Júnior, um desenvolvedor autodidata e orientado a produtos, com um
 - **Oak Tecnologia (2024 - Atual)**: Desenvolvimento de soluções de ponto de venda (PDVs) e software de backoffice utilizando NestJS, TypeORM, React, Next.js, Tauri, e Rust.
 - **E-nova Tecnologia da Informação (2022 - Atual)**: Criação e gerenciamento de bibliotecas reutilizáveis com Storybook e integração com SonarQube para manter altos padrões de qualidade.
 - **MetaOriginal (2022 - 2023)**: Desenvolvimento de aplicações web e mobile utilizando Next.js e Flutter, com ênfase em acessibilidade e otimização de desempenho.
+- **Be Mobile (2022)**: Desenvolvimento e manutenção de sites e aplicações web utilizando Next.js, TypeScript, HTML, CSS e JavaScript puro, com foco em acessibilidade e otimização de desempenho.
 
 ## 🌱 O que estou aprendendo
 
@@ -26,8 +27,10 @@ Atualmente, estou me aprofundando em [tecnologia ou linguagem específica], alé
 
 ## 📫 Entre em contato
 
-- **LinkedIn:** [Seu Perfil](link-do-seu-linkedin)
-- **GitHub:** [Seu Perfil](link-do-seu-github)
-- **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaceguai-junior/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583999102582)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaceguaijunnior80@gmail.com)
 
 ---
+
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
