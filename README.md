@@ -35,9 +35,9 @@ Projetos e alocações na ENE:
 
 **E-nova Tecnologia da Informação** — Desenvolvedor Full Stack Júnior/Pleno (mai/2022 – ago/2024): bibliotecas reutilizáveis no Storybook, SonarQube e app React Native offline com NestJS e SQLite.
 
-**MetaOriginal** — Desenvolvedor Frontend Júnior/Pleno (jan/2021 – abr/2022): Next.js, Flutter, Firebase e Pixel Streaming.
+**Be Mobile** — Desenvolvedor Frontend Júnior (dez/2022 – mar/2023): Next.js, TypeScript e React, com foco em acessibilidade.
 
-**Be Mobile** — Desenvolvedor Frontend Júnior (dez/2021 – mar/2022): Next.js, TypeScript e React, com foco em acessibilidade.
+**MetaOriginal** — Desenvolvedor Frontend Júnior/Pleno (jan/2021 – abr/2022): Next.js, Flutter, Firebase e Pixel Streaming.
 
 ## 📫 Contato
 
